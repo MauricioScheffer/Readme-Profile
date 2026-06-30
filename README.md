@@ -1,5 +1,3 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjE1bng2NDIxMTk1MHdqb25wdXhhaWlodGpheWdldG1hcGRhcDcydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif">
-
 <!-- <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=MauricioScheffer&amp;show_icons=true&amp;theme=bear&amp;include_all_commits=true&amp;count_private=true"> -->
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
 
