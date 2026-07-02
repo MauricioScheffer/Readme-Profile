@@ -56,4 +56,4 @@ https://github.com/MauricioScheffer
 [![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/757282271781847130")
 [![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/maur%C3%ADcio-scheffer-silveira-95b972279/)
 
-> *"Always learning. Always building."* img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAydjRpcjg0M2J6OHo0YnRrNGkxa3A2eWljdmR0bHdyZWI3bXM2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HrRvnN7NuJy4InG4MV/giphy.gif" width="25px">
+> *"Always learning. Always building."* <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAydjRpcjg0M2J6OHo0YnRrNGkxa3A2eWljdmR0bHdyZWI3bXM2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HrRvnN7NuJy4InG4MV/giphy.gif" width="25px">
