@@ -17,7 +17,7 @@ Currently I study Full Stack development, Java, Go and Software Architecture.
 </div>
 
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThtOXYzZXJnNTZnaTc0eTJzMW0zcnN4ZW9qdmV1dmN3NnY5bzE2YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VdoIFLsMIlwzfKD520/giphy.gif"> Technologies
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThtOXYzZXJnNTZnaTc0eTJzMW0zcnN4ZW9qdmV1dmN3NnY5bzE2YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VdoIFLsMIlwzfKD520/giphy.gif"  width="25px"> Technologies
 
 <div align="center">
 
