@@ -1,23 +1,59 @@
-<!-- <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=MauricioScheffer&amp;show_icons=true&amp;theme=bear&amp;include_all_commits=true&amp;count_private=true"> -->
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World! I am Mauricio Scheffer
 
-<!-- https://github-readme-stats.vercel.app/api/top-langs?username=MauricioScheffer&amp;layout=compact&amp;langs_count=7&amp;theme=bear -->
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> IT Technician and System Analysis and Development student.
 
-<div style="display: inline-block; aling-items: center; justify-content: center;">
-    <img align="middle" alt="Mauricio.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-    <img align="middle" alt="Mauricio.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-    <img align="middle" alt="Mauricio.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-    <img align="middle" alt="Mauricio.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-    <img align="middle" alt="Mauricio.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-    <img aling="center" alt="Mauricio-php" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-    <img align="middle" alt="Mauricio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-    <img align="middle" alt="Mauricio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-    <img align="middle" alt="Mauricio.js" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlt-TGjHVh4qzymsShj8a9dkNKBG7rfq2wTg&amp;s">
-    <img align="middle" alt="Mauricio.js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-    <img align="middle" alt="Mauricio.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-    <img align="middle" alt="Mauricio.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-    <img align="middle" alt="Mauricio.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-    <img align="middle" alt="Mauricio.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
-    <img align="middle" alt="Mauricio.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-    <img align="middle" alt="Mauricio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
+I am passionate about software development, always seeking to learn new technologies and build projects that solve real problems.
+
+Currently I study Full Stack development, Java, Go and Software Architecture.
+
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAydjRpcjg0M2J6OHo0YnRrNGkxa3A2eWljdmR0bHdyZWI3bXM2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HrRvnN7NuJy4InG4MV/giphy.gif" width="25px"> GitHub Stats
+
+<div align="center">
+
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=MauricioScheffer&show_icons=true&theme=tokyonight&hide_border=true"/> -->
+
+<img height="170" src="https://streak-stats.demolab.com?user=MauricioScheffer&theme=tokyonight&hide_border=true"/>
+
 </div>
+
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThtOXYzZXJnNTZnaTc0eTJzMW0zcnN4ZW9qdmV1dmN3NnY5bzE2YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VdoIFLsMIlwzfKD520/giphy.gif"> Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,html,css,java,python,php,react,ts,mysql,postgres,git,github,figma,androidstudio"/>
+
+</div>
+
+
+## 📚 Currently Studying
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,spring,docker"/>
+
+</div>
+
+<!-- 
+## 📫 Where To Find Me
+
+📧 **Email** 
+
+**mauricioscheffersilveira13@gmail.com**
+
+🐙 **GitHub**
+
+https://github.com/MauricioScheffer
+
+💬 **Discord**
+
+`757282271781847130 and mau_s.s` -->
+
+## 🌎 Let's connect
+
+[![EMAIL](https://skillicons.dev/icons?i=gmail)](mailto:mauricioscheffersilveira13@gmail.com)
+[![GITHUB](https://skillicons.dev/icons?i=github)](https://github.com/MauricioScheffer)
+[![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/757282271781847130")
+[![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/maur%C3%ADcio-scheffer-silveira-95b972279/)
+
+> *"Always learning. Always building."* img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAydjRpcjg0M2J6OHo0YnRrNGkxa3A2eWljdmR0bHdyZWI3bXM2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HrRvnN7NuJy4InG4MV/giphy.gif" width="25px">
