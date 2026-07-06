@@ -6,16 +6,16 @@ I am passionate about software development, always seeking to learn new technolo
 
 Currently I study Full Stack development, Java, Go and Software Architecture.
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAydjRpcjg0M2J6OHo0YnRrNGkxa3A2eWljdmR0bHdyZWI3bXM2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HrRvnN7NuJy4InG4MV/giphy.gif" width="25px"> GitHub Stats
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAydjRpcjg0M2J6OHo0YnRrNGkxa3A2eWljdmR0bHdyZWI3bXM2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HrRvnN7NuJy4InG4MV/giphy.gif" width="25px" /> GitHub Stats
 
-<div align="center">
+
 
 <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=MauricioScheffer&show_icons=true&theme=tokyonight&hide_border=true"/> -->
-
+<div display="center" justify-content="space-between">
 <img height="170" src="https://streak-stats.demolab.com?user=MauricioScheffer&theme=tokyonight&hide_border=true"/>
 
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MauricioScheffer&layout=compact&theme=dracula&locale=pt-br"/>
 </div>
-
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThtOXYzZXJnNTZnaTc0eTJzMW0zcnN4ZW9qdmV1dmN3NnY5bzE2YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VdoIFLsMIlwzfKD520/giphy.gif"  width="25px"> Technologies
 
